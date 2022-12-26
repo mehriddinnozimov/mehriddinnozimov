@@ -1,12 +1,18 @@
 # Mehriddin Nozimov
 **Kasb**: Node.js software developer
+
 **Yosh**: 23
+
 **Manzil**: O'zbekiston, Buxoro, G'ijduvon
+
 **Tajriba**: 2022-*
+
 **Daraja**: Junior
+
 **Qittak tanishuv**:
 Yosh, umidli, ochiq fikrli, o'z dunyoqarashi va qadriyatlariga ega. 
 Kompaniya yoki loyiha uchun tegishli texnologiyalardan foydalangan holda yechim taklif eta oladi.
+
 **Shior**: ***1000 "ura"dan 1 "Hello world" afzal.***
 
 ### Ish tajriba
