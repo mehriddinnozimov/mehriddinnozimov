@@ -36,6 +36,6 @@
             LinkedIn
           </a>
           <a href="https://telegram.com/mehriddinnozimov" target="_blank" alt="Telegram">
-            Twitter
+            Telegram
           </a>
 </p>
