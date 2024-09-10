@@ -15,13 +15,14 @@
 | Full-stack     | JavaScript                  | 2+ years   |
 | Full-stack     | TypeScript                  | 1+ years   |
 | Backend        | Node.js                     | 2+ years   |
+| Backend        | Go                          | 2+ years   |
 | Backend        | Node.js Caching & Stream    | 1+ years   |
 | Backend        | REST/CRUD API               | 2+ years   |
 | Backend        | OpenAPI (Swagger)           | 1+ years   |
 | Testing        | Jest                        | 1+ years   |
 | Database       | Postgres (via ORM)          | 2+ years   |
 | Database       | Redis                       | 1+ years   |
-| Database       | MongoDB                     | 1+ years   |
+| Database       | MongoDB                     | 2+ years   |
 | DevOps         | Linux / SSH / Bash          | 1+ years   |
 | DevOps         | Docker                      | 1+ years   |
 
