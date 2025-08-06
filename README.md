@@ -12,19 +12,20 @@
 
 | Stack          | Name                        | Experience |
 | -------------- | --------------------------- | ---------- |
-| Full-stack     | JavaScript                  | 2+ years   |
-| Full-stack     | TypeScript                  | 1+ years   |
-| Backend        | Node.js                     | 2+ years   |
-| Backend        | Go                          | 2+ years   |
-| Backend        | Node.js Caching & Stream    | 1+ years   |
-| Backend        | REST/CRUD API               | 2+ years   |
-| Backend        | OpenAPI (Swagger)           | 1+ years   |
-| Testing        | Jest                        | 1+ years   |
-| Database       | Postgres (via ORM)          | 2+ years   |
-| Database       | Redis                       | 1+ years   |
+| Full-stack     | JavaScript                  | 3+ years   |
+| Full-stack     | TypeScript                  | 3+ years   |
+| Backend        | Node.js                     | 3+ years   |
+| Backend        | Nest.js                     | 2+ years   |
+| Backend        | Go                          | 1+ years   |
+| Backend        | Node.js Caching & Stream    | 3+ years   |
+| Backend        | REST/CRUD API               | 3+ years   |
+| Backend        | OpenAPI (Swagger)           | 3+ years   |
+| Testing        | Jest                        | 2+ years   |
+| Database       | Postgres                    | 3+ years   |
+| Database       | Redis                       | 2+ years   |
 | Database       | MongoDB                     | 2+ years   |
-| DevOps         | Linux / SSH / Bash          | 1+ years   |
-| DevOps         | Docker                      | 1+ years   |
+| DevOps         | Linux / SSH / Bash          | 2+ years   |
+| DevOps         | Docker                      | 2+ years   |
 
 </details>
 
